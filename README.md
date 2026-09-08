@@ -12,4 +12,5 @@ Components Required: PC with LTspice software.
 # Simulation of BJT with Voltage Divider Bias
 <img width="1107" height="661" alt="image" src="https://github.com/user-attachments/assets/4ec736d1-13b2-4cf9-ae4e-490fde2dbdf3" />
 
-Result: Thus, the BJT with voltage divider bias was designed using LTspice and the output was simulated and observed.
+# Result:
+Thus, the BJT with voltage divider bias was designed using LTspice and the output was simulated and observed.
